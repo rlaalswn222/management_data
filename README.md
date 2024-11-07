@@ -13,15 +13,21 @@
 ----
 
 main.py
+
 selenium을 이용한 웹 크롤링 python파일
 
+
 clothing_waste.py
+
 의류 폐기물 matplotlib 패키지를 이용한 시각화
 
 crolling.py
+
 main파일에서 진행한 게시물, 게시날짜들을 이용한 게시영상 시각화
 
+
 이외 xlsx 파일
+
 크롤링 진행한 엑셀 파일
 
 ----
